@@ -13,10 +13,10 @@ export default function Header() {
       </button>
       <nav class="header__nav">
         <ul class="header__nav__list">
-          <li className="nav__item"><a href="{{ url('/') }}" class="nav__link">Home</a></li>
-          <li className="nav__item"><a href="#services" class="nav__link">My Services</a></li>
-          <li className="nav__item"><a href="#about" class="nav__link">About me</a></li>
-          <li className="nav__item"><a href="#work" class="nav__link">My Work</a></li>
+          <li className="nav__item"><a href="{{ url('/') }}" class="nav__link">Demo</a></li>
+          <li className="nav__item"><a href="#services" class="nav__link">Demo</a></li>
+          <li className="nav__item"><a href="#about" class="nav__link">Demo</a></li>
+          <li className="nav__item"><a href="#work" class="nav__link">Demo</a></li>
         </ul>
       </nav>
     </header>
